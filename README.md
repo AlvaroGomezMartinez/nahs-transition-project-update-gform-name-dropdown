@@ -6,3 +6,6 @@ and create letters for students transitioning back to their home campus after th
 placement at NAHS. This script references a Google Sheet that contains student names
 and updates one of the dropdown questions so that teachers can select the name of most current
 students enrolled at NAHS.
+### Project Setup
+[ ] Insert the Code.gs script into the Google Form<br/>
+[ ] Add a trigger for the populateDropdown function to run at a set interval
