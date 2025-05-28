@@ -9,3 +9,4 @@ students enrolled at NAHS.
 ### Project Setup
 [ ] Insert the Code.gs script into the Google Form<br/>
 [ ] Add a trigger for the populateDropdown function to run at a set interval
+### Project Archived
